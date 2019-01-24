@@ -1,0 +1,4 @@
+AndreiBubolz;12345;6000;6;1
+Andrei;123;0;0;1
+HelenaDufau;54321;0;0;0
+EduardaEC;020595;1250;1;1
